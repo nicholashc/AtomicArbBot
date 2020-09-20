@@ -1,3 +1,5 @@
+*Update: Sept 19, 2020: if you deployed and used this code your bot will likely be eligible to claim [UNI](https://uniswap.org/blog/uni/). Send me a message if you need help claiming.*
+
 # AtomicArbBot
 I'm open-sourcing an atomic arbitrage dex bot I don't use anymore. I will eventually document this more completely. 
 
