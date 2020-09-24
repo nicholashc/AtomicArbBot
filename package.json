@@ -1,0 +1,30 @@
+{
+  "name": "AtomicArbBot",
+  "version": "1.0.0",
+  "description": "*Update: Sept 19, 2020: if you deployed and used this code your bot will likely be eligible to claim [UNI](https://uniswap.org/blog/uni/). Send me a message if you need help claiming.*",
+  "main": "Controller.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicholashc/AtomicArbBot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicholashc/AtomicArbBot/issues"
+  },
+  "homepage": "https://github.com/nicholashc/AtomicArbBot#readme",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^1.1.0",
+    "bignumber.js": "^9.0.0",
+    "dotenv": "^8.2.0",
+    "ethereumjs-tx": "^2.1.2",
+    "web3": "^1.3.0"
+  }
+}
